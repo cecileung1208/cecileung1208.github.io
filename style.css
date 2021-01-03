@@ -15,10 +15,6 @@
     text-align: center;
 }
 
-.nav_text{
-    font-size: 30px;
-    color: blue;
-}
 
 body {
     background-color: black;
@@ -27,4 +23,17 @@ body {
 
 .card_color{
     background-color: black
+}
+
+.right_align{
+    text-align: right;
+}
+
+.nav_head_text{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.nav_list_text{
+    font-size: 20px;
 }
