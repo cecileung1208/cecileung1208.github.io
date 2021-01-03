@@ -14,3 +14,17 @@
 .center_text{
     text-align: center;
 }
+
+.nav_text{
+    font-size: 30px;
+    color: blue;
+}
+
+body {
+    background-color: black;
+    color: white;
+  }
+
+.card_color{
+    background-color: black
+}
