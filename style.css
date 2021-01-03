@@ -1,0 +1,16 @@
+.bold_text {
+    font-weight: bold;
+}
+
+.button_color {
+    background-color: navy;
+    border-color: navy;
+}
+
+.image_reduce {
+    max-width: 100%;
+}
+
+.center_text{
+    text-align: center;
+}
